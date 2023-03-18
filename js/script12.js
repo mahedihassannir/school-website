@@ -11,7 +11,7 @@ let forvalue2=document2.value
 
 if(forvalue==="mahedi"&&forvalue2==="mahedi"){
     // window.location.href="index.html"
-    window.location.href="video.html"
+    window.location.href="index22.html"
 }
 else{
 
